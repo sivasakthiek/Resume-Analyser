@@ -1,7 +1,7 @@
 
   # Smart Resume Analyzer App
 
-  This is a code bundle for Smart Resume Analyzer App. The original project is available at https://www.figma.com/design/GhSlkgkeKXtSOB7OsjBRpc/Smart-Resume-Analyzer-App.
+  view: https://stray-factor-06534349.figma.site/
 
   ## Running the code
 
